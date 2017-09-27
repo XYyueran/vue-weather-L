@@ -1,5 +1,6 @@
-#说明
-> 一个vue +router入门项目。使用element-ui作为桌面端的ui。实现了一个简单的天气查询。中文输入。调用第三方天气接口。
+# vue-weather-exm
+
+> this is weather
 
 ## Build Setup
 
@@ -9,5 +10,21 @@ npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
+```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
